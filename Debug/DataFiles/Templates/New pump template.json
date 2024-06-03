@@ -1,0 +1,21 @@
+{
+  "ID": "New pump template",
+  "Platform": "Planar",
+  "IEM": "AMPSA/PEGDA",
+  "Coating": "Acrylate",
+  "IEMGeometry": "Rectangular",
+  "Source": "GABA",
+  "Solvent": "PBS",
+  "TargetSolvent": null,
+  "Target": "PBS",
+  "SourceConcentrationUnit": "μM",
+  "TargetConcentrationUnit": "nM",
+  "PolyConcentration": 11.0,
+  "CSDiam": 5.0,
+  "CSLen": 2.0,
+  "CSWidth": 4.0,
+  "Length": 3.0,
+  "SConc": 4.0,
+  "TConc": 2.0,
+  "NumChannels": 5.0
+}

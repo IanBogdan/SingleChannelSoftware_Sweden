@@ -1,0 +1,82 @@
+
+<!--
+    Developer note: Please add data points into their 
+    respective categories in the Data tree.
+    You can delete DataPoints, but please, do not delete 
+    the titles, and do not change the hierarchy of the file.
+    When adding a data point, please use spaces before
+    and after the entry text
+    ("<DataPoint>Planar</DataPoint>" => "<DataPoint> Planar </DataPoint>").
+-->
+
+
+<Data>
+
+    <Platform>
+        <DataPoint> Planar </DataPoint>
+        <DataPoint> Capillary </DataPoint>
+    </Platform>
+
+    <IEM>
+        <DataPoint> A-HPG </DataPoint>
+        <DataPoint> AMPSA/PEGDA </DataPoint>
+        <DataPoint> PSS-co-MA/PEG </DataPoint>
+        <DataPoint> C-HPG </DataPoint>
+        <DataPoint> AETMA AC/PEGDA </DataPoint>
+        <DataPoint> pDADMAC </DataPoint>
+    </IEM>
+
+    <CapillaryCoating>
+        <DataPoint> Poly imide </DataPoint>
+        <DataPoint> Acrylate </DataPoint>
+    </CapillaryCoating>
+
+    <IEMGeometry>
+        <DataPoint> Circular </DataPoint>
+        <DataPoint> Rectangular </DataPoint>
+    </IEMGeometry>
+
+    <Source>
+        <DataPoint> KCl </DataPoint>
+        <DataPoint> NaCl </DataPoint>
+        <DataPoint> GABA </DataPoint>
+        <DataPoint> Gem </DataPoint>
+        <DataPoint> Tz (K2) </DataPoint>
+        <DataPoint> Tz (Mek) </DataPoint>
+    </Source>
+
+    <Solvent>
+        <DataPoint> PBS </DataPoint>
+        <DataPoint> DMSO </DataPoint>
+        <DataPoint> DI water </DataPoint>
+    </Solvent>
+
+    <Target>
+        <DataPoint> KCl </DataPoint>
+        <DataPoint> NaCl </DataPoint>
+        <DataPoint> PBS </DataPoint>
+    </Target>
+
+    <TargetSolvent>
+        <DataPoint> PBS </DataPoint>
+        <DataPoint> DMSO </DataPoint>
+        <DataPoint> DI water </DataPoint>
+    </TargetSolvent>
+
+    <TargetConcentrationUnit>
+        <DataPoint> pM </DataPoint>
+        <DataPoint> nM </DataPoint>
+        <DataPoint> μM </DataPoint>
+        <DataPoint> mM </DataPoint>
+        <DataPoint> M </DataPoint>
+    </TargetConcentrationUnit>
+
+    <SourceConcentrationUnit>
+        <DataPoint> pM </DataPoint>
+        <DataPoint> nM </DataPoint>
+        <DataPoint> μM </DataPoint>
+        <DataPoint> mM </DataPoint>
+        <DataPoint> M </DataPoint>
+    </SourceConcentrationUnit>
+
+</Data>
